@@ -1,0 +1,9 @@
+9af41fc8d8ae91d84f25bf7aea9f73f7 *DESCRIPTION
+14a3ddae7eb8d70668b66a4666f67c44 *NAMESPACE
+df1c574a2849851b0ba8c60a25c479b5 *R/mci.R
+0435aafdefb7380a5a2a1a5b27ac0ba6 *R/syncSubsample.R
+9db9ca1f6c2279b83b58765224a24171 *data/gazelleRelocations.rda
+fdd9b279e0b339a009a850ebbf63de1b *man/SyncMove-package.Rd
+7e90fb619069a11f834a5929425d9427 *man/gazelleRelocations.Rd
+c44ab81cdc0ff41f084f57c4d5a28bd4 *man/mci.Rd
+58762aab8ba30ad9ef5ca75dae0abe53 *man/syncSubsample.Rd
